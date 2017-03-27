@@ -29,7 +29,7 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.RabbitMovies" name="[COLOR lawngreen][B]Rabbit[/COLOR][/B][COLOR blue][B]Movies[/COLOR][/B]" version="1.0.2" provider-name="[COLOR red][B]Coelhon[/COLOR][/B]">
+<addon id="plugin.video.[COLOR lawngreen][B]Rabbit[/COLOR][/B][COLOR white][B]Movies[/COLOR][/B]" name="[COLOR lawngreen][B]Rabbit[/COLOR][/B][COLOR white][B]Movies[/COLOR][/B]" version="0.0.1" provider-name="[COLOR lawngreen][B]Coelhon[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -47,7 +47,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Movies for all...</summary>
-    <description lang="en"> O Melhor Addon de Filmes </description>
+    <description lang="en"> O Melhor Addon de Filmes e + </description>
     <platform>all</platform>
   </extension>
 </addon>
