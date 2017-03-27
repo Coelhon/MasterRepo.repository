@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.RabbitMovies" name="[COLOR lawngreen][B]Rabbit[/COLOR][/B][COLOR blue][B]Movies[/COLOR][/B]" version="1.0.3" provider-name="[COLOR red][B]Coelhon[/COLOR][/B]">
+<addon id="plugin.video.RabbitMovies" name="[COLOR lawngreen][B]Rabbit[/COLOR][/B][COLOR white][B]Movies[/COLOR][/B]" version="1.0.4" provider-name="[COLOR red][B]Coelhon[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
