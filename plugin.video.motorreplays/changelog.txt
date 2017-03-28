@@ -1,0 +1,17 @@
+v1.6 - 
+Bugs and Fixes
+
+v1.5 - 
+Changed Icon for News and Updates
+
+v1.4 -
+News and Updated added to addon rather than start up
+
+v1.3 - 
+Added:
+Search Function
+Information Notification Pop-up 
+
+
+v1.0 - 
+Initial Release

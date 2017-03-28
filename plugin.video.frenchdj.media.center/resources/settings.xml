@@ -1,0 +1,6 @@
+<settings>
+ 	<category label="[COLOR gold]Autenticação[/COLOR]">
+		<setting id="User" type="text" label="[COLOR deepskyblue]Username[/COLOR]" default="" visible="true"/>
+		<setting id="Pass" type="text" label="[COLOR deepskyblue]Password[/COLOR]" default=""  option="hidden" />
+	</category>
+</settings>
